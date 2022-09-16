@@ -1,4 +1,4 @@
-[![MasterHead](https://compliance4all14.files.wordpress.com/2018/02/cyb-1.gif)](https://RanjitPatil.io)
+[![MasterHead](https://github.com/RanjitPatil/RanjitPatil/blob/main/1661610678039.jpg)
 
 <h1 align="center">Hi 👋, I'm Ranjit Patil</h1>
 
