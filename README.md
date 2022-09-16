@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://blog.ret2.io/assets/img/lighthouse_clear_paint.gif">
+<img align="right" alt="Coding" width="400" src="https://blog.ret2.io/assets/img/tenet_overview.gif">
 
 - 🌱 I’m currently learning **Malware Analysis/Reverse Enggenering**
 
