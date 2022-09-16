@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/RanjitPatil/RanjitPatil/blob/main/1661610678039.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Ranjit Patil</h1>
 
