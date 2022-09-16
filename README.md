@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://blog.ret2.io/assets/img/tenet_overview.gif">
 
-- 🌱 I’m currently learning **Malware Analysis and Reverse Engineering**
+- 🌱 I’m currently learning **Malware Analysis/Reverse Engineering**
 
 - 📫 How to reach me **patilranjit9527@gmail.com**
 
