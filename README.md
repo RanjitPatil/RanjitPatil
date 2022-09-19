@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ranjit Patil</h1>
+<h1 align="center">Hi, I'm Ranjit Patil</h1>
 
 <h3 align="center">A passionate Cyber Security Analyst.</h3><br>
 
