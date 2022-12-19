@@ -6,11 +6,12 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://blog.ret2.io/assets/img/tenet_overview.gif">
+<img align="right" alt="Coding" width="350" src="https://blog.ret2.io/assets/img/tenet_overview.gif">
 
 - 🌱 I’m currently learning **Malware Analysis/Reverse Engineering**
 
-- 🔭 I have been spending time upskilling in Malware Analysis and Reverse Engineering, As part of my upskilling journey, I have created this repo to share my knowlagde.
+- 🔭 I've been working on improving my Malware Analysis and Reverse Engineering 
+skills. As part of my learning journey, I created this repository to share my knowledge. 
 
 - 📫 How to reach me **patilranjit9527@gmail.com**
 
