@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **Malware Analysis/Reverse Engineering**
 
+- 🔭 I have been spending time upskilling in Malware Analysis and Reverse Engineering, As part of my upskilling journey, I have created this repo to share my knowlagde.
+
 - 📫 How to reach me **patilranjit9527@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
