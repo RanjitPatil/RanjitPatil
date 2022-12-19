@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="350" src="https://blog.ret2.io/assets/img/tenet_overview.gif">
 
-- 🌱 I’m currently learning **Malware Analysis/Reverse Engineering**
+- 🌱 Cyber Security Analyst with background in Incident Detection & Response, Threat Hunting, SIEM solutions, and Phishing/Spam Investigation.
 
-- 🔭 I've been working on improving my Malware Analysis and Reverse Engineering 
+- 🔭 I've been working on improving my **Malware Analysis and Reverse Engineering** 
 skills. As part of my learning journey, I created this repository to share my knowledge. 
 
 - 📫 How to reach me **patilranjit9527@gmail.com**
