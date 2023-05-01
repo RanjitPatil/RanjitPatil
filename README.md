@@ -15,7 +15,7 @@ skills. As part of my learning journey, I created this repository to share my kn
 
 - 📫 How to reach me **patilranjit9527@gmail.com**
 
-- 🔭 Checkout below pinned Repositories of Malware Analysis Reports.
+- 🔭 Checkout below pinned Repositories for Malware Analysis Reports.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
